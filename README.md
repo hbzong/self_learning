@@ -1,2 +1,2 @@
-# selflearning
-examples of self learning
+# self_learning
+Exercises of self learning.
